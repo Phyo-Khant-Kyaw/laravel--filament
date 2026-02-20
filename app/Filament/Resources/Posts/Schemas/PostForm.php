@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Filament\Resources\Customers\Schemas;
+namespace App\Filament\Resources\Posts\Schemas;
 
 use Filament\Schemas\Schema;
 
-class CustomerForm
+class PostForm
 {
     public static function configure(Schema $schema): Schema
     {
